@@ -1,0 +1,5 @@
+#!/bin/bash
+# instantosterm
+# instantosarg
+# remove the spaces in front of the above options to enable them
+pactl set-sink-mute 0 toggle
